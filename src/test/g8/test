@@ -1,0 +1,4 @@
+> scalafmtSbtCheck
+> scalafmtCheckAll
+> scalafixAll --check
+> test
